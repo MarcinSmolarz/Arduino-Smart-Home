@@ -1,0 +1,58 @@
+body {
+}
+
+div.header {
+	font-family: 'Josefin Sans', sans-serif;
+	text-align: center;
+
+}
+
+
+
+	
+nav.nav{
+	font-family: 'Josefin Sans', sans-serif;
+	text-align: center;
+	background: rgba(0,151,156,0.85);	
+	margin-top: 2rem;
+}
+nav ul{
+		list-style: none;
+}
+nav ul li a{
+	text-decoration: none;
+}
+
+	
+nav.nav1{
+	font-family: 'Josefin Sans', sans-serif;
+	text-align: center;
+	background: rgba(255,255,255,0.7);	
+	margin-top: 5rem;
+}
+nav1 ul{
+		list-style: none;
+}
+nav1 ul li a{
+	text-decoration: none;
+	
+}
+
+table{
+	width: 35%;
+	height: 30px;
+	text-align: center;
+	border-collapse: collapse;
+}
+table td, table th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+table tr:nth-child(even){background-color: #f2f2f2;}
+
+
+div.input-group-mb-3{
+	text-align: center;
+	background: rgba(255,255,255,0.7);
+}
